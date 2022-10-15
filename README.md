@@ -2,7 +2,7 @@
 [![Telegram](/TelegramBots.svg)](https://telegram.me/JavaBotsApi)
 
 
-A simple to use library to create Telegram Bots in Java
+A simple to use library to create Telegram Bots in Java which also called OOPS
 
 ## Contributions
 Feel free to fork this project, work on it and then make a pull request against **DEV** branch. Most of the times I will accept them if they add something valuable to the code.
